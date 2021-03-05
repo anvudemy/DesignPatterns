@@ -1,0 +1,10 @@
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Composite.Menu\bin\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Composite.Menu\bin\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\Composite.Menu.csprojResolveAssemblyReference.cache
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Composite.Menu\bin\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Composite.Menu\bin\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\Composite.Menu.csprojAssemblyReference.cache
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Composite.Menu\obj\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb

@@ -1,0 +1,8 @@
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\State.GumballMachine\bin\Debug\HeadFirstDesignPatterns.State.GumballMachine.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\State.GumballMachine\bin\Debug\HeadFirstDesignPatterns.State.GumballMachine.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\State.GumballMachine\obj\Debug\HeadFirstDesignPatterns.State.GumballMachine.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\State.GumballMachine\obj\Debug\HeadFirstDesignPatterns.State.GumballMachine.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\State.GumballMachine\bin\Debug\HeadFirstDesignPatterns.State.GumballMachine.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\State.GumballMachine\bin\Debug\HeadFirstDesignPatterns.State.GumballMachine.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\State.GumballMachine\obj\Debug\HeadFirstDesignPatterns.State.GumballMachine.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\State.GumballMachine\obj\Debug\HeadFirstDesignPatterns.State.GumballMachine.pdb

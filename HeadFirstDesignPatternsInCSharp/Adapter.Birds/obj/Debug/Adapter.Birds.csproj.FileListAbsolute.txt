@@ -1,0 +1,10 @@
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Adapter.Birds\bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Adapter.Birds\bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\Adapter.Birds.csprojResolveAssemblyReference.cache
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Adapter.Birds\bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Adapter.Birds\bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\Adapter.Birds.csprojAssemblyReference.cache
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Adapter.Birds\obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb

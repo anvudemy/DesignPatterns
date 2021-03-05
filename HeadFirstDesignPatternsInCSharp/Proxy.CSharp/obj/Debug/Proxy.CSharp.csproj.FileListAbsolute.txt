@@ -1,0 +1,8 @@
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\bin\Debug\HeadFirstDesignPatterns.Proxy.CSharp.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\bin\Debug\HeadFirstDesignPatterns.Proxy.CSharp.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\obj\Debug\HeadFirstDesignPatterns.Proxy.CSharp.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\obj\Debug\HeadFirstDesignPatterns.Proxy.CSharp.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\bin\Debug\HeadFirstDesignPatterns.Proxy.CSharp.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\bin\Debug\HeadFirstDesignPatterns.Proxy.CSharp.pdb
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\obj\Debug\HeadFirstDesignPatterns.Proxy.CSharp.dll
+C:\Users\SravaniAnvesh\Downloads\examples_HeadFirstDesignPatternsInCSharp\HeadFirstDesignPatternsInCSharp\Proxy.CSharp\obj\Debug\HeadFirstDesignPatterns.Proxy.CSharp.pdb
